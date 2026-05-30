@@ -33,7 +33,7 @@ while play:
     
     if guess == 'exit':
         play = False
-        print("\nEnding game!")
+        print("\nEnding game!!")
     elif guess == correct_answer:
         print("🟢 Right! Good job!\n")
         points += 1
